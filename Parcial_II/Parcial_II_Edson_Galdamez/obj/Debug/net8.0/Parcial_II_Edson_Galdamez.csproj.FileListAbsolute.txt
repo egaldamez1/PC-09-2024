@@ -1,0 +1,14 @@
+C:\Users\sansg\OneDrive\Escritorio\U\Programación\Parcial_II_Edson_Galdamez\bin\Debug\net8.0\Parcial_II_Edson_Galdamez.exe
+C:\Users\sansg\OneDrive\Escritorio\U\Programación\Parcial_II_Edson_Galdamez\bin\Debug\net8.0\Parcial_II_Edson_Galdamez.deps.json
+C:\Users\sansg\OneDrive\Escritorio\U\Programación\Parcial_II_Edson_Galdamez\bin\Debug\net8.0\Parcial_II_Edson_Galdamez.runtimeconfig.json
+C:\Users\sansg\OneDrive\Escritorio\U\Programación\Parcial_II_Edson_Galdamez\bin\Debug\net8.0\Parcial_II_Edson_Galdamez.dll
+C:\Users\sansg\OneDrive\Escritorio\U\Programación\Parcial_II_Edson_Galdamez\bin\Debug\net8.0\Parcial_II_Edson_Galdamez.pdb
+C:\Users\sansg\OneDrive\Escritorio\U\Programación\Parcial_II_Edson_Galdamez\obj\Debug\net8.0\Parcial_II_Edson_Galdamez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sansg\OneDrive\Escritorio\U\Programación\Parcial_II_Edson_Galdamez\obj\Debug\net8.0\Parcial_II_Edson_Galdamez.AssemblyInfoInputs.cache
+C:\Users\sansg\OneDrive\Escritorio\U\Programación\Parcial_II_Edson_Galdamez\obj\Debug\net8.0\Parcial_II_Edson_Galdamez.AssemblyInfo.cs
+C:\Users\sansg\OneDrive\Escritorio\U\Programación\Parcial_II_Edson_Galdamez\obj\Debug\net8.0\Parcial_II_Edson_Galdamez.csproj.CoreCompileInputs.cache
+C:\Users\sansg\OneDrive\Escritorio\U\Programación\Parcial_II_Edson_Galdamez\obj\Debug\net8.0\Parcial_II_Edson_Galdamez.dll
+C:\Users\sansg\OneDrive\Escritorio\U\Programación\Parcial_II_Edson_Galdamez\obj\Debug\net8.0\refint\Parcial_II_Edson_Galdamez.dll
+C:\Users\sansg\OneDrive\Escritorio\U\Programación\Parcial_II_Edson_Galdamez\obj\Debug\net8.0\Parcial_II_Edson_Galdamez.pdb
+C:\Users\sansg\OneDrive\Escritorio\U\Programación\Parcial_II_Edson_Galdamez\obj\Debug\net8.0\Parcial_II_Edson_Galdamez.genruntimeconfig.cache
+C:\Users\sansg\OneDrive\Escritorio\U\Programación\Parcial_II_Edson_Galdamez\obj\Debug\net8.0\ref\Parcial_II_Edson_Galdamez.dll
